@@ -5,7 +5,7 @@ _BME **F**, **LoRa**, **Sz**atmári Levente, **A**liyev Nurlan, **N**émeth Már
 ## Check branches for different integrations
 
 1. Arduino IDE
-    - arduino-ide-based
+    - [arduino-ide-based](https://github.com/nurlan-aliyev/FLoRaSzAN/tree/arduino-ide-based)
 
 ### Pinout for RP2350PlusM
 ![Pinout for the microcontroller](https://github.com/nurlan-aliyev/FLoRaSzAN/blob/main/assets/pinout.jpg)
